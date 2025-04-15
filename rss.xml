@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ForgeOptiFine 1.7.10 pour Auralith</title>
+    <link>https://github.com/Allxyzx/LauncherMAJ/releases</link>
+    <description>Mises à jour pour ForgeOptiFine 1.7.10 destinées à Auralith.</description>
+    <item>
+      <title>ForgeOptiFine 1.7.10-Auralith disponible</title>
+      <link>https://github.com/Allxyzx/LauncherMAJ/releases/tag/v1.7.10</link>
+      <description>Téléchargez la dernière version de ForgeOptiFine 1.7.10 pour Auralith.</description>
+      <pubDate>Mon, 15 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
